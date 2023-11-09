@@ -1,0 +1,17 @@
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\bin\Debug\net7.0\Bluesoft_Bank.BLL.deps.json
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\bin\Debug\net7.0\Bluesoft_Bank.BLL.dll
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\bin\Debug\net7.0\Bluesoft_Bank.BLL.pdb
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\bin\Debug\net7.0\Bluesoft_Bank.DAL.dll
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\bin\Debug\net7.0\Bluesoft_Bank.MODELS.dll
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\bin\Debug\net7.0\Bluesoft_Bank.DAL.pdb
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\bin\Debug\net7.0\Bluesoft_Bank.MODELS.pdb
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\obj\Debug\net7.0\Bluesoft_Bank.BLL.csproj.AssemblyReference.cache
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\obj\Debug\net7.0\Bluesoft_Bank.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\obj\Debug\net7.0\Bluesoft_Bank.BLL.AssemblyInfoInputs.cache
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\obj\Debug\net7.0\Bluesoft_Bank.BLL.AssemblyInfo.cs
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\obj\Debug\net7.0\Bluesoft_Bank.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\obj\Debug\net7.0\Bluesoft_Bank.BLL.csproj.CopyComplete
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\obj\Debug\net7.0\Bluesoft_Bank.BLL.dll
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\obj\Debug\net7.0\refint\Bluesoft_Bank.BLL.dll
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\obj\Debug\net7.0\Bluesoft_Bank.BLL.pdb
+C:\Users\ydrop\source\repos\BluesoftBankUI\Bluesoft_Bank.BLL\obj\Debug\net7.0\ref\Bluesoft_Bank.BLL.dll
